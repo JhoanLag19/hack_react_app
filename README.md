@@ -9,11 +9,12 @@ Ubicación: Caracas, Venezuela
 ## Forma sin base de datos en Vercel
 Repositorio en Github:
 <br>
-
+https://github.com/JhoanLag19/hack_react_app_vercel
+<br>
 <br>
 Versión de deploy en Vercel:
 <br>
-
+https://app-react-vercel-black.vercel.app/
 
 ## Forma con base de datos en AWS
 Repositorio en Github:
