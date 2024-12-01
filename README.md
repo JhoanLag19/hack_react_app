@@ -19,7 +19,4 @@ https://app-react-vercel-black.vercel.app/
 ## Forma con base de datos en AWS
 Repositorio en Github:
 <br>
-
-<br>
-Versión de deploy en Netlify:
-<br>
+https://github.com/JhoanLag19/hack_react_app_aws
